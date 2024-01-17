@@ -40,3 +40,6 @@ body{
   padding:8px 15px;
   cursor: pointer;
 }
+.container{
+  text-align: center;
+}
